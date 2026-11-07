@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/zackary-dolan-579496359/'>LinkedIn</a>. Stroke Ballinamore Leitrim. Contacts. Motto. Etc.
+subtitle: <a href='https://www.linkedin.com/in/zackary-dolan-579496359/'>LinkedIn</a>. Keep Dreaming
 
 profile:
   align: right
   image: rembrandt.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>Located in Leitrim, Ireland</p>
     <p></p>
     <p></p>
 
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
