@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: MRI Imaging Project
+description: A project that used test sets of MRI images to expedite testing of MRI machines.
+img: assets/img/MRI-Phantom.jpg
+importance: 3
 category: work
 giscus_comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Java Web Dev Project
-description: A java web project from a 3rd year module
+description: A java web project from 3rd year
 img: assets/img/java-cover.jpg
 importance: 1
 category: work
