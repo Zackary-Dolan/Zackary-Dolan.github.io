@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Java Web Dev Project
+description: A java web project from a 3rd year module
+img: assets/img/java-cover.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
