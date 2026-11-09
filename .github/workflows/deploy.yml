@@ -101,6 +101,10 @@ jobs:
         run: yes | bash
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Fix permissions
+        run: |
+            chmod a+x bin/*
+            git commit -am "add execute permission to bin/deploy"
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
